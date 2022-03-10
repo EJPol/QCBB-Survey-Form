@@ -1,0 +1,15 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+.background-image
+{
+    background-image: url('https://i.pinimg.com/564x/4f/cd/6d/4fcd6dd044d59043164a85cad6b9db7f.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 600px;
+}
